@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1578277574 source:c:\users\ajmai\desktop\new project\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Date.h"
+	"index.h"
+	"ajouter_fichier.c"
+	"consulter_fichier.c"
+	"consulter_index.c"
+	"recherche_mot.c"
+	"modifier_fichier.c"
+	"supprimrer_fichier.c"
+	"intialiser_liste.c"
+
+1575986034 c:\users\ajmai\desktop\new project\date.h
+
+1578185081 c:\users\ajmai\desktop\new project\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1578260141 c:\users\ajmai\desktop\new project\ajouter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"Date.h"
+	"index.h"
+
+1578263994 c:\users\ajmai\desktop\new project\consulter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578186705 c:\users\ajmai\desktop\new project\consulter_index.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578265238 c:\users\ajmai\desktop\new project\recherche_mot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578267018 c:\users\ajmai\desktop\new project\modifier_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578277617 c:\users\ajmai\desktop\new project\supprimrer_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"index.h"
+
+1578187581 c:\users\ajmai\desktop\new project\intialiser_liste.c
+	<stdio.h>
+	<stdlib.h>
+	"index.h"
+
+1578187550 c:\users\ajmai\desktop\new project\ajouter_liste.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"index.h"
+
+1578387772 source:c:\new folder\mini_projet v2.0\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Date.h"
+	"index.h"
+	"ajouter_fichier.c"
+	"consulter_fichier.c"
+	"consulter_index.c"
+	"recherche_mot.c"
+	"modifier_fichier.c"
+	"supprimrer_fichier.c"
+	"intialiser_liste.c"
+
+1575986034 c:\new folder\mini_projet v2.0\date.h
+
+1578388163 c:\new folder\mini_projet v2.0\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1578487222 c:\new folder\mini_projet v2.0\ajouter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"Date.h"
+	"index.h"
+	<sys/types.h>
+	<time.h>
+	<sys/stat.h>
+
+1578389388 c:\new folder\mini_projet v2.0\consulter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578389363 c:\new folder\mini_projet v2.0\consulter_index.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578487305 c:\new folder\mini_projet v2.0\recherche_mot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578386795 c:\new folder\mini_projet v2.0\modifier_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578386341 c:\new folder\mini_projet v2.0\supprimrer_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"index.h"
+
+1578187582 c:\new folder\mini_projet v2.0\intialiser_liste.c
+	<stdio.h>
+	<stdlib.h>
+	"index.h"
+
+1578387772 source:c:\users\pc\desktop\mini_projet v2.0\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Date.h"
+	"index.h"
+	"ajouter_fichier.c"
+	"consulter_fichier.c"
+	"consulter_index.c"
+	"recherche_mot.c"
+	"modifier_fichier.c"
+	"supprimrer_fichier.c"
+	"intialiser_liste.c"
+
+1575986034 c:\users\pc\desktop\mini_projet v2.0\date.h
+
+1578388162 c:\users\pc\desktop\mini_projet v2.0\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1578487222 c:\users\pc\desktop\mini_projet v2.0\ajouter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"Date.h"
+	"index.h"
+	<sys/types.h>
+	<time.h>
+	<sys/stat.h>
+
+1578389388 c:\users\pc\desktop\mini_projet v2.0\consulter_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578389362 c:\users\pc\desktop\mini_projet v2.0\consulter_index.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578487304 c:\users\pc\desktop\mini_projet v2.0\recherche_mot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578386794 c:\users\pc\desktop\mini_projet v2.0\modifier_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578386340 c:\users\pc\desktop\mini_projet v2.0\supprimrer_fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"index.h"
+
+1578187582 c:\users\pc\desktop\mini_projet v2.0\intialiser_liste.c
+	<stdio.h>
+	<stdlib.h>
+	"index.h"
+
